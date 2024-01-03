@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Name](Excel.Name.md)** object.
 
 ## Remarks
 
-If the style is a built-in style, this property returns the name of the style in the language of the current locale.
+If the name is a built-in name, this property returns the name in the language of the current locale.
 
 
 
